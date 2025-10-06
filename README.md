@@ -8,5 +8,5 @@
 |  6 | 18-09-2025  | 03  | Widget GridView, ListView, GridView.builder, dan ListView.builder | [Modul 06](https://github.com/darulgusti/modul-6) | [Laporan 06](https://docs.google.com/document/d/1p94IPXnKjje5CV-V1cIC3UllaxRDWJz1/edit?usp=drive_link&ouid=118061127636888660340&rtpof=true&sd=true) |
 |  7 | 25-09-2025  | 04  | Navigasi Antar Halaman Menggunakan MaterialPageRoute dan Named Route | [Modul 07](https://github.com/darulgusti/modul-7) | [Laporan 07](https://docs.google.com/document/d/19TsS3ov7KWbvviKZuL6drkjIH5GbLa5B/edit?usp=drive_link&ouid=118061127636888660340&rtpof=true&sd=true) |
 |  8 | 25-09-2025  | 04  |Navigasi Antar Halaman dengan Mengirimkan Argumen Menggunakan Named Route | [Modul 08](https://github.com/darulgusti/modul-8) | [Laporan 08](https://docs.google.com/document/d/1Uh9nq8wuUUMRhvfLsbYFn8VOSUv13QAB/edit?usp=drive_link&ouid=118061127636888660340&rtpof=true&sd=true) |
-|  9 | 02-10-2025  | 05  |StatefulWidget| [Modul 09](https://github.com/darulgusti/modul-9) | () |
-| 10 | 09-10-2025  | 06  |Desain GUI, Navigasi, dan Integrasi API dengan JSON Serialization di Flutter| [Modul 10](https://github.com/darulgusti/modul-10) | () |
+|  9 | 02-10-2025  | 05  |StatefulWidget| [Modul 09](https://github.com/darulgusti/modul-9) |  |
+| 10 | 09-10-2025  | 06  |Desain GUI, Navigasi, dan Integrasi API dengan JSON Serialization di Flutter| [Modul 10](https://github.com/darulgusti/modul-10) |  |
